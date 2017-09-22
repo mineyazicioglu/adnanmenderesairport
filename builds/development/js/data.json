@@ -1,0 +1,65 @@
+{ "news" : [
+  { 
+    "title":"Bilgilendirme Duyurusu",
+    "date":"11.07.2016",
+    "shortname":"info",
+    "summary":"TAV Grup Şirketlerinin veya ortaklarının, gümrüksüz (duty free) ürünler olduğu iddiasıyla inter...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=10"
+  },
+  { 
+    "title":"Havalimanı Seçim Sandıkları Hakkında",
+    "date":"30.09.2015",
+    "shortname":"sandik",
+    "summary":"01 Kasım 2015 tarihinde yapılacak 26.Dönem Milletvekili Genel Seçimi nedeniyle Adnan Menderes H...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=9"
+  },
+  { 
+    "title":"Yaz Saati Uygulaması",
+    "date":"25.03.2015",
+    "shortname":"yazsaati",
+    "summary":"Bu seneki yaz saati uygulaması Pazar günü başlaycak. 29 Mart günü saat 03.00'te, saatler 1 saat...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=8"
+  },
+  { 
+    "title":"“Sessiz Terminal” uygulamasının ilk aşamasına Adnan Menderes Havalimanında da başlandı",
+    "date":"08.07.2014",
+    "shortname":"notices",
+    "summary":"“Sivil havacılık sektöründe son yıllarda artan yolcu sayısıyla birlikte havalimanlarında artan ...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=7"
+  },
+  { 
+    "title":"Yeni İç Hatlar Terminali",
+    "date":"20.03.2014",
+    "shortname":"notices",
+    "summary":"İzmir Adnan Menderes Havalimanı Yeni İç Hatlar Terminali'nden uçuşlar 23 Mart 2014, Pazar saat ...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=6"
+  },
+  { 
+    "title":"SON DURUM: HAVACILIKTA YAZ SAATİ UYGULAMASI",
+    "date":"17.03.2014",
+    "shortname":"notices",
+    "summary":"30 Mart 2014 tarihinde geçilmesi planlanan 2014 yaz saati uygulaması, Bakanlar Kurulu Kararı uy...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=5"
+  },
+  { 
+    "title":"Havalimanımızda banliyö hattı ve terminal arasındaki bağlantı yolu 7 Mayıs sabahından itibaren değişecektir.",
+    "date":"06.05.2013",
+    "shortname":"duyuru",
+    "summary":"İzmir Adnan Menderes Havalimanı’nda halen süren yeni iç hatlar terminali yapım çalışmaları nede...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=4"
+  },
+  { 
+    "title":"Yeni Sıvı Kısıtlama Düzenlemeleri",
+    "date":"01.02.2012",
+    "shortname":"sivi_kisitlama_k",
+    "summary":"Havayolu ile seyahat eden yolcuların el/kabin bagajlarında taşıyabilecekleri sıvılarla ilgili d...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=3"
+  },
+  { 
+    "title":"Yeni Uçuşlar",
+    "date":"18.03.2011",
+    "shortname":"notices",
+    "summary":"İzmir’den Bakü’ye Azerbaycan Hava Yolları ile doğrudan uçun! Azerbaycan Havayolları,...",
+    "link":"http://www.adnanmenderesairport.com/tr-TR/basinodasi/Pages/DuyuruDetayi.aspx?pid=2"
+  }
+]}
