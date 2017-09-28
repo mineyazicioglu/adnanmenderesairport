@@ -4,6 +4,6 @@ $(require('jquery'));
 
 (fill = function(item) {
   return $('.logo').append("" + item);
-})('Adnan Menderes Airport');
+})('Adnan Menderes Airporttt');
 
 fill;
