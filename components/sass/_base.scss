@@ -1,13 +1,13 @@
 // _base.scss
 // ==============
 body {
-  background: lighten($beige, 10%);
+  background: lighten($greyGradientStart, 10%);
   font-family: $bodyFont;
   font-size: 1.1em;
 }
 
 #content {
-  color: $pink;
+  color: $darkGrey;
   font-size: 2em;
 }
 
@@ -35,13 +35,13 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  color: $purple;
+  color: $darkGrey;
 }
 
 p {
   font-size: 1.3em;
   line-height: 1.5em;
-    color: $purple;
+    color: $darkGrey;
   margin-bottom: 20px;
     margin-top: 15px;
 }

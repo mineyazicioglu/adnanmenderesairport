@@ -1,7 +1,7 @@
 // _modules.scss
 // ============
 .city {
-  @include backImage('../images/backgrounds/seattle_skyline.jpg');
+  @include backImage('../img/backgrounds/seattle_skyline.jpg');
   img.logo {
     position: absolute;
     right: 0;
@@ -13,8 +13,8 @@
 } //city
 
 .featuredartists {
-  background: $darkGreenGold;
-  border-top: 20px solid $beige;
+  background: $darkGrey;
+  border-top: 20px solid $darkGrey;
   border-bottom: 50px solid $green;
 
   h1 {
@@ -28,7 +28,7 @@
   h2 {
     margin-top: 20px;
     font-size: 1.8em;
-    color: darken($beige, 8%);
+    color: darken($darkGrey, 8%);
     @media (max-width: 700px) {
      display: none;
     }
@@ -44,12 +44,12 @@
     h2 {
       margin-top: 5px;
       font-size: 1.2em;
-      color: lighten($beige, 8%);
+      color: lighten($darkGrey, 8%);
     } //h2
 
     .item {
       min-width: 95px;
-      color: darken($darkGreenGold, 10%);
+      color: darken($darkGrey, 10%);
       width: 18%;
       float: left;
       padding: 1%;
@@ -68,8 +68,8 @@
 } //featured artists
 
 .potterypix {
-  @include backImage('../images/backgrounds/pottery_workshop.jpg');
-  border-bottom: 50px solid $darkGreenGold;
+  @include backImage('../img/backgrounds/pottery_workshop.jpg');
+  border-bottom: 50px solid $darkGrey;
 } //venue
 
 .aboutvenue {
@@ -79,13 +79,13 @@
 }
 
 .workshoppix {
-  @include backImage('../images/backgrounds/woodworking_workshop.jpg');
-  border-bottom: 50px solid $darkGreenGold;
+  @include backImage('../img/backgrounds/woodworking_workshop.jpg');
+  border-bottom: 50px solid $darkGrey;
 } //workshops
 
 .ontour {
   h1 {
-    color: lighten($purple, 5);
+    color: lighten($darkGrey, 5);
     font-size: 3em;
     bottom: 10px;
     right: 10%;
@@ -93,14 +93,14 @@
 
   h2 {
     font-size: 1.8em;
-    color: $darkGreenGold;
-    border-top: 1px solid $darkGreenGold;
+    color: $darkGrey;
+    border-top: 1px solid $darkGrey;
     padding-top: 5px;
   } //h3
 
   h3 {
     font-size: 1.3em;
-    color: lighten($purple, 15);
+    color: lighten($darkGrey, 15);
     padding-bottom: 5px;
   } //h4
 
